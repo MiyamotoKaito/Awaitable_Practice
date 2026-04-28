@@ -26,4 +26,9 @@ public class AwaitableConsoleDemo : MonoBehaviour
         Debug.Log("次のフレームまで待った");
     }
 
+    async Awaitable ThreadSwichDemo()
+    {
+
+    }
+
 }
